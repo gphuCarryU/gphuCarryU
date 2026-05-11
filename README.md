@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=gphuCarryU&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-## 🚀 About Me<br>🔭 I’m currently working on AI, Python, and database projects.<br>🌱 I’m currently learning Python, R, SQL Server, GitHub, and Antigravity.  <br>💬 Ask me about Python, Data Analysis, SQL Server, R, and AI student projects.  <br>🤝 I’m looking for help with real-world software development and clean code.  <br>⚡ Fun fact: I enjoy building practical projects and learning new development tools.
+## 🚀 About Me:<br>🔭 I’m currently working on AI, Python, and database projects.<br>🌱 I’m currently learning Python, R, SQL Server, GitHub, and Antigravity.  <br>💬 Ask me about Python, Data Analysis, SQL Server, R, and AI student projects.  <br>🤝 I’m looking for help with real-world software development and clean code.  <br>⚡ Fun fact: I enjoy building practical projects and learning new development tools.
 
 
 ## 🌐 Socials:
