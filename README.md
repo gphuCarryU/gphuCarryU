@@ -17,9 +17,11 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,antigravity,sqlsever" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
