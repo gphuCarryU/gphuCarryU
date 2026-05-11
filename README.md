@@ -16,8 +16,8 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,R,git,github,pycharm,antigravity,sql sever" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,mysql" />
 </p>
 
 ---
@@ -25,8 +25,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gphuCarryU&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gphuCarryU&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gphuCarryU&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gphuCarryU&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gphuCarryU&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gphuCarryU&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
